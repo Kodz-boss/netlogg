@@ -191,7 +191,7 @@ body{
     }
 
     .active{
-        width: 300px;
+        width: 330px;
         height: 400px;
         overflow-y: visible;
         background-color: white;
